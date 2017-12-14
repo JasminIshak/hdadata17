@@ -1,0 +1,39 @@
+Level 1
+•	Datensatz für die Weihnachtstage (24.-26. Dezember) in Google Tabellen aufrufen 
+•	Kopie vom Datensatz erstellen (dazu Datei -> Kopie erstellen)
+•	Datensatz vollständig kopieren
+•	Datawrapper öffnen und Datensatz per Rechtsklick einfügen
+•	„Daten hochladen“ und „weiter“ klicken 
+•	Spalte A,B,E,F in Diagramm ausblenden (dazu Spalte markieren und Häkchen setzen in „Spalte in Diagramm ausblenden“
+•	„Weiter“ klicken
+•	Visualisierung: Linien auswählen
+Level 2
+•	Datensatz für die Weihnachtstage (24.-26- Dezember) in Google Tabellen aufrufen
+•	Kopie vom Datensatz erstellen (dazu Datei -> Kopie erstellen)
+•	Pivot-Überblickstabelle anlegen (dazu Daten -> Pivot-Tabelle)
+•	‘1.-23.12‘!A1: F8523 in ‘1.-23.12.‘!A3:F8523 ändern
+•	Bei „Zeilen” auf Hinzufügen klicken und STATIONSNAME auswählen
+•	Bei „Spalten“ auf Hinzufügen klicken und JAHR auswählen
+•	Bei „Werte“ auf Hinzufügen klicken und GESAMTSCHNEEHÖHE auswählen 
+•	Die Gesamtschneehöhe bei „Zusammenfassen nach“ von SUM in MAX ändern
+•	Visualisieren: dazu Einfügen -> Diagramm
+
+Level 3
+•	Datawrapper aufrufen 
+•	„Create Map“ / Karte anlegen -> Choroplethen oder Symbol-Karte auswählen
+•	Deutschland >> Bundesländer auswählen und „weiter“ klicken
+•	Die in Level 2 erstellte Pivot-Überblickstabelle des Datensatzes für die Weihnachtstage (24.-26. Dezember) aufrufen und die Daten aus dem Jahre 2014 kopieren
+•	Datawrapper aufrufen: auf „importiere deinen Datensatz“ klicken
+•	 Adressen/Ortsnamen auswählen
+•	 Kopierte Daten einfügen oder einzeln übertragen
+•	Auf „weiter“ klicken für Visualisierung
+Level 4
+•	Tableau öffnen
+•	Wetterdaten einfügen 
+•	Blatt 1 anlegen: JAHR in Spalten ziehen, SUM (Gesamtschnee) in Zeilen
+•	Blatt 2 anlegen: SUM (Gesamtschnee) in Spalten ziehen, Stationsname in Zeilen
+•	Blatt 3 anlegen: JAHR in Spalten ziehen, Stationsname und SUM (Gesamtschnee) in Zeilen
+•	Dashboard anlegen
+•	Filter in jeder einzelnen Grafik aktivieren
+•	abspeichern
+
